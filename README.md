@@ -10,7 +10,7 @@ Por otro lado también se requiere implementar un dashboard que presente un aná
 
 - Carlos López Carreño
 - Jairo Murcia 20162020047
-- Cristian Gutierrez
+- Cristian Gutierrez 20172020046
 
 ---
 
