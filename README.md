@@ -3,6 +3,6 @@
 
 ## Integrantes
 
-Carlos López Carreño
-Jairo Murcia
-Cristian Gutierrez
+- Carlos López Carreño
+- Jairo Murcia
+- Cristian Gutierrez
