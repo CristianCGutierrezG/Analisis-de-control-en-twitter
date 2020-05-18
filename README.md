@@ -8,9 +8,9 @@ Por otro lado también se requiere implementar un dashboard que presente un aná
 
 ## Integrantes
 
-- Carlos López Carreño
-- Jairo Murcia 20162020047
-- Cristian Gutierrez 20172020046
+- Carlos López Carreño - 20162021295
+- Jairo Murcia - 20162020047
+- Cristian Gutierrez - 20172020046
 
 ---
 
